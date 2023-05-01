@@ -1,0 +1,107 @@
+0factors
+step1:start
+step2:declare i,n
+step3:initialize i=1,n=8
+step4:if n%i==0 if it true go to step5 otherwise step6
+step5:print i
+step6:increment i=i+1
+step7:repeat step4&5 untill it reaches i<=n otherwise go to step8
+step8:stop
+
+perfect number
+step1:start
+step2:declare sum,n,i
+step3:initialize n=6,sum=0,i=1
+step4:if n%i==0 is true goto step5 othewise goto step6
+step5:sum=sum+i
+step6:increment the valuse i=i+1
+step7:repeat step4,5,6, untill it reaches i<n go to step8
+step8:sum==n if it is true goto step9 otherwise go to step10
+step9:print perfect
+step10:print not perfect
+step11:stop
+
+1.begin
+// dispaly "enter the value of side"
+2.declare side,area
+3.Input side
+4.area=side*side
+5.display area
+6.End
+​[3:24 PM] Sowjanya Uppu
+    greatest number between two numbers
+begin
+declare num1,num2
+Input the values num1,num2
+if(num1>num2)
+print num1 is greater
+else
+print num2 is greater
+end if
+End
+
+    greatest number between two numbers
+begin
+declare num1,num2
+Input the values num1,num2
+if(num1>num2)
+print num1 is greater
+else
+print num2 is greater
+end if
+End
+​
+    print day of the week
+begin
+declare num
+input num
+if(num==1)
+print "Monday"
+else if(num==2)
+print "tuesday"
+else if(num==3)
+print "wednesay"
+else if(num==4)
+print "thrusday
+else if(num==5)
+print "friday"
+else if(num==6)
+print "saturday"
+else if(numm==7)
+print "sunday"
+else
+print "invalid number"
+end if
+end
+
+begin
+declare num1,num2,num3
+input the values nu1,num2,num3
+if(num1>num2)&&(num1>num3)
+print num1 is greater
+else if(num2>num3)
+print num2 is greater
+else
+print num3 is greater
+end if
+end 
+
+
+begin
+declare count
+assin count=1
+//for 1 to 5 times do
+while(count<=5)
+do
+print biltabs
+count=count+1
+end while
+end
+
+5. Draw a flow chart on ATM transactions:
+a. Cash withdrawal flowchart
+b. Account balance inquiry flowchart
+c. Transfer funds flowchart
+d. Bill payment flowchart
+e. Change pin flowchart
+

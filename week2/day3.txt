@@ -1,0 +1,33 @@
+step1-start
+step2- decalre physics,chemistry,biology,mathematics,computer,percentage,obtained marks
+step3-read physics=70,chemistry=75,biology=65,mathematics=70,computer=75
+step4- add all subject marks and store it in obtained marks i.e., obtained marks=(physics+chemistry+mathematics+biology+computer)
+step5- calculate percentage -> percentage=(obtained marks/500)*100
+step6-print percentage
+step7- if percentage>=90 then print Grade A
+step8-else if percentage>=80 then print Grade B
+step9-else if percentage>=70 then print Grade C
+step10- elseif percentage>=60 then print Grade D
+step11-elseif percentage>=40 then print Grade E
+step12-otherwise it displays Grade F
+step13-stop
+​
+step1:start
+step2:declare the variables of the subjects physics,chemistry,biology,mathematics,computers,percentage
+step3:read the values of subjects physics,chemistry,biology,mathematics,computers
+step4:calculate the percentage using the formula the number of marks obtained divided with the total marks and multiply with 100
+    ((physics+chemistry+biology+mathematics+computers)/500)*100
+step5:store the result into the percentage
+step6:if the percentage is greater than or equal to 90 print A grade
+    percentage>=90
+step7:elseif the percentage is greater than or equal to 80 print B grade
+    percentage>=80
+step8:elseif the percentage is greater than or equal to 70 print c grade
+    percentage>=70
+step9:elseif the percentage is greater than or equal to 60 print D grade
+    percentage>=60
+step10:elseif the percentage is grater than or equal to 40 print E grade
+    percentage>=40
+step11:else print fail
+step12:stop
+
